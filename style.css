@@ -233,12 +233,12 @@ body{
         display: block;
     }
     .row1, .row2{
-        width: 450px;
+        width: 400px;
         height: 562px;
-        padding-bottom: 10px;
+        padding-bottom: 50px;
     }
     .food-img1{
-        width: 400px;
+        width: 350px;
         height: 308px;
 
     }
